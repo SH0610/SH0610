@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SH0610&show_icons=true&count_private=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=FFC0CD)
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:sanghee0610@ajou.ac.kr)](mailto:sanghee0610@ajou.ac.kr)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSH0610&count_bg=%23FFC0CD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
